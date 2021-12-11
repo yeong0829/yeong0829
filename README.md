@@ -2,7 +2,7 @@
   
   
 <!-- ### Hi there😀   -->
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=fdf987&text=SeoYeong+Joo&height=150&fontSize=60&desc&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=feffe8&text=SeoYeong+Joo&height=150&fontSize=60&desc&descAlignY=75&descAlign=60)
   
 <!-- ![20-208402_m](https://media3.giphy.com/media/63MSL8tQzUI1POrteY/giphy.gif)</br> -->
 ![20-208402_m](https://media3.giphy.com/media/emBM8GmvXcNdQEBEoI/giphy.gif?cid=ecf05e47l4r648xjvm0vdm9uqdipkn2iavuxh4p1o0gtbwuh&rid=giphy.gif&ct=g)</br>
