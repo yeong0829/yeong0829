@@ -4,9 +4,9 @@
 <!-- ### Hi there😀   -->
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=feffe8&text=SeoYeong+Joo&height=150&fontSize=60&desc&descAlignY=75&descAlign=60)
   
-<!-- ![20-208402_m](https://media3.giphy.com/media/63MSL8tQzUI1POrteY/giphy.gif)</br> -->
-![20-208402_m](https://media3.giphy.com/media/emBM8GmvXcNdQEBEoI/giphy.gif?cid=ecf05e47l4r648xjvm0vdm9uqdipkn2iavuxh4p1o0gtbwuh&rid=giphy.gif&ct=g)</br>
-<!-- ![20-208402_m](https://media2.giphy.com/media/8ke9tEXRDIJgY/giphy.gif?cid=ecf05e47zvoixy94v0rs2u9fgcm7ieleivrt3r298q0bog1b&rid=giphy.gif&ct=g)</br>
+![20-208402_m](https://media3.giphy.com/media/63MSL8tQzUI1POrteY/giphy.gif)</br>
+<!-- ![20-208402_m](https://media3.giphy.com/media/emBM8GmvXcNdQEBEoI/giphy.gif?cid=ecf05e47l4r648xjvm0vdm9uqdipkn2iavuxh4p1o0gtbwuh&rid=giphy.gif&ct=g)</br>
+![20-208402_m](https://media2.giphy.com/media/8ke9tEXRDIJgY/giphy.gif?cid=ecf05e47zvoixy94v0rs2u9fgcm7ieleivrt3r298q0bog1b&rid=giphy.gif&ct=g)</br>
 ![20-208402_m](https://media2.giphy.com/media/fx2jvcDYceRDE9BC5s/giphy.gif?cid=ecf05e4701n2v677rncbyn67dysp0somnehfuua4xxc82d9o&rid=giphy.gif&ct=g)</br>
 ![20-208402_m](https://media1.giphy.com/media/l4FGps2R0jE92cyOY/giphy.gif?cid=ecf05e47wd4agnirxu1uuymdjmtrlxpk7mt711bw1rrhevyx&rid=giphy.gif&ct=g)</br>
 ![20-208402_m](https://media4.giphy.com/media/xTeWOVI8shjIDTq9Yk/giphy.gif?cid=ecf05e47zi9jrotu82bz1vjpfhbrfmwbprjoh9jaa0v5mw57&rid=giphy.gif&ct=g)</br>
