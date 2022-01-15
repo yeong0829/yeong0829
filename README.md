@@ -32,8 +32,8 @@
 <p>
 <a href="https://www.instagram.com/sy._.0829/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white" /></a><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeong0829&layout=compact&theme=dark)<br>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeong0829&theme=highcontrast) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeong0829&layout=compact&theme=apprentice)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeong0829&show_icons=true&theme=apprentice) -->
 
 <!-- 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeong431%2Fyeong431.git&count_bg=%23F7F14E&title_bg=%231B1717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
