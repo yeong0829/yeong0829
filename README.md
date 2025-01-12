@@ -27,10 +27,12 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white"/><br>
 </p>
- 
+
+ <!--
 <h3>🤍 me 🤍</h3>
 <p>
 <a href="https://www.instagram.com/sy._.0829/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white" /></a><br>
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeong0829&layout=compact&theme=apprentice)<br>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeong0829&show_icons=true&theme=apprentice) -->
